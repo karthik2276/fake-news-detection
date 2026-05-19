@@ -1,5 +1,11 @@
 # Fake News Detection System 📰
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.22.0%2B-FF4B4B)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--learn-orange)
+![NLP](https://img.shields.io/badge/NLP-NLTK-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A professional, end-to-end Machine Learning project that classifies news articles as **REAL** or **FAKE** using Natural Language Processing (NLP) and a modern Streamlit dashboard.
 
 ## 🚀 Project Overview
