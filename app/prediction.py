@@ -1,6 +1,10 @@
 import os
 import joblib
-from .preprocessing import clean_text
+try:
+    from preprocessing import clean_text
+except ImportError:
+    from .preprocessing import clean_text
+
 
 class FakeNewsPredictor:
     def __init__(self):
